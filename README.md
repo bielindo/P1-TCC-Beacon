@@ -6,9 +6,9 @@ Este é o repositório do projeto de Trabalho de Conclusão de Curso (TCC) intit
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local.
 
-    git clone git@github.com:seu-usuario/tccBeaconGenerator.git
+    git clone https://github.com/bielindo/P1-TCC-Beacon.git
    
-    cd tccBeaconGenerator
+    cd P1-TCC-Beacon
 
 3. Certifique-se de ter as bibliotecas necessárias instaladas. Para esse projeto, são usadas as bibliotecas BLEDevice e BLEUtils. Você pode instalá-las usando o Library Manager do Arduino IDE ou, se estiver usando a plataforma PlatformIO, as bibliotecas são gerenciadas automaticamente.
 
