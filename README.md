@@ -1,6 +1,6 @@
 # P1 - Projeto TCC - Beacon Generator
 
-Este é o repositório do projeto de Trabalho de Conclusão de Curso (TCC) intitulado "Beacon Generator". O objetivo deste projeto é criar um dispositivo usando o ESP32 que funcione como um beacon Bluetooth Low Energy (BLE).
+Este é o primeiro repositórios do projeto de Trabalho de Conclusão de Curso (TCC) sobre localização indoor, intitulado "Beacon Generator". O objetivo deste projeto é criar um dispositivo usando o ESP32 que funcione como um beacon Bluetooth Low Energy (BLE).
 
 ## Instalação
 
